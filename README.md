@@ -1,6 +1,7 @@
 ## madoreenu
 
-![AtCoder Rating](https://atcoder-disp-graph.tra.earth/disp-rate/madoreenu?contest-type=algo&graph-type=status)
+[![Contributions](https://badgen.org/img/qiita/madoreenu/contributions?style=for-the-badge)](https://qiita.com/madoreenu)
+[![Rating](https://badgen.org/img/atcoder/madoreenu/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/madoreenu?contestType=algo)
 
 <!--
 **madoreenu314/madoreenu314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
