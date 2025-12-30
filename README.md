@@ -1,4 +1,6 @@
-## Hi there 👋
+## madoreenu
+
+![AtCoder Rating](https://atcoder-disp-graph.tra.earth/disp-rate/madoreenu?contest-type=algo&graph-type=status)
 
 <!--
 **madoreenu314/madoreenu314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
