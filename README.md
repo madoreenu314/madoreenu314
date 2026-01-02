@@ -1,7 +1,14 @@
-## madoreenu
+# madoreenu
 
-[![Contributions](https://badgen.org/img/qiita/madoreenu/contributions?style=for-the-badge)](https://qiita.com/madoreenu)
+Hi! I'm just a uni student who is interested in learning new things such as
+- programming🧑‍💻
+- playing instruments🎻🎸
+- blogging📝
+- reading📚
+  
 [![Rating](https://badgen.org/img/atcoder/madoreenu/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/madoreenu?contestType=algo)
+<br>
+[![Contributions](https://badgen.org/img/qiita/madoreenu/contributions?style=for-the-badge)](https://qiita.com/madoreenu)
 
 <!--
 **madoreenu314/madoreenu314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
